@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Shahariar Shanto
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Advance Web Apps Development
 - 🌱 I’m currently learning about Advance Web Apps
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me Shahariarshanto@gmail.com
+- 📫 How to reach me Shahariarshanto@yahoo.com
