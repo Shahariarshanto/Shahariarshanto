@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hey, I'm Sheikh Shahariar Shanto! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/Shahariarshanto/Shahariarshanto/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullahi+Wabarakatuh..+%F0%9F%92%A5++;Self-taught+Full+Stack+Web+Developer,;MERN+Stack+Enthusiast,;Lifelong+Learner,;Coffee+Lover+%E2%98%95%EF%B8%8F"></a>
+  <a href="https://github.com/Shahariarshanto/Shahariarshanto/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum..+%F0%9F%92%A5++;Self-taught+Full+Stack+Web+Developer,;MERN+Stack+Enthusiast,;Lifelong+Learner,;Coffee+Lover+%E2%98%95%EF%B8%8F"></a>
 </p>
 
 
